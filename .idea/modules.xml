@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bundler/melos_bundler.iml" filepath="$PROJECT_DIR$/bundler/melos_bundler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercises\\exercise_01_mockups/melos_exercise_01_mockups.iml" filepath="$PROJECT_DIR$/exercises\\exercise_01_mockups/melos_exercise_01_mockups.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercises\\exercise_02_animations/melos_exercise_02_animations.iml" filepath="$PROJECT_DIR$/exercises\\exercise_02_animations/melos_exercise_02_animations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises\\exercise_02_animations\\controlled_animation_01/melos_controlled_animation_01.iml" filepath="$PROJECT_DIR$/exercises\\exercise_02_animations\\controlled_animation_01/melos_controlled_animation_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises\\exercise_02_animations\\controlled_animation_02/melos_controlled_animation_02.iml" filepath="$PROJECT_DIR$/exercises\\exercise_02_animations\\controlled_animation_02/melos_controlled_animation_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises\\exercise_02_animations\\implied_animation_01/melos_implied_animation_01.iml" filepath="$PROJECT_DIR$/exercises\\exercise_02_animations\\implied_animation_01/melos_implied_animation_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises\\exercise_02_animations\\implied_animation_02/melos_implied_animation_02.iml" filepath="$PROJECT_DIR$/exercises\\exercise_02_animations\\implied_animation_02/melos_implied_animation_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises\\exercise_01_mockups\\money_app_screen/melos_money_app_screen.iml" filepath="$PROJECT_DIR$/exercises\\exercise_01_mockups\\money_app_screen/melos_money_app_screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises\\exercise_01_mockups\\tinder_screen/melos_tinder_screen.iml" filepath="$PROJECT_DIR$/exercises\\exercise_01_mockups\\tinder_screen/melos_tinder_screen.iml" />
       <module fileurl="file://$PROJECT_DIR$/melos_flutterando_masterclass.iml" filepath="$PROJECT_DIR$/melos_flutterando_masterclass.iml" />
     </modules>
   </component>
