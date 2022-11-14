@@ -1,0 +1,9 @@
+name: flutterando_masterclass
+
+packages:
+  - bundler
+  - exercises/**
+
+command:
+  bootstrap:
+    usePubspecOverrides: true

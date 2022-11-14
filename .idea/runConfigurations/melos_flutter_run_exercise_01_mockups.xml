@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Flutter Run -&gt; 'exercise_01_mockups'" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="filePath" value="$PROJECT_DIR$/exercises\\exercise_01_mockups\lib\main.dart" />
+    <method v="2" />
+  </configuration>
+</component>
