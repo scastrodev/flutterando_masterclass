@@ -8,23 +8,20 @@ class LoginScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final screenWidth = MediaQuery.of(context).size.width;
-
     return Scaffold(
       backgroundColor: Colors.black,
-      body: SingleChildScrollView(
-        child: SizedBox(
-          width: 300,
-          height: MediaQuery.of(context).size.height,
-          child: ListView(
+      body: Center(
+        child: SingleChildScrollView(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const SizedBox(width: 200, height: 230, child: LogoWidget()),
+              const SizedBox(width: 150, height: 200, child: LogoWidget()),
               ConstrainedBox(
                 constraints: const BoxConstraints(maxWidth: 350),
                 child: const Text(
                   'Get your Money Under Control',
                   textAlign: TextAlign.center,
-                  style: TextStyle(fontSize: 35, fontWeight: FontWeight.w600),
+                  style: TextStyle(fontSize: 40, fontWeight: FontWeight.w600),
                 ),
               ),
               const SizedBox(height: 20),
@@ -36,7 +33,7 @@ class LoginScreen extends StatelessWidget {
                   style: TextStyle(fontSize: 25, color: Colors.grey[500]),
                 ),
               ),
-              const SizedBox(height: 100),
+              const SizedBox(height: 80),
               ElevatedButton(
                 onPressed: () {},
                 style: ElevatedButton.styleFrom(
